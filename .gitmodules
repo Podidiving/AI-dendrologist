@@ -1,0 +1,6 @@
+[submodule "ml-backend"]
+	path = ml-backend
+	url = https://github.com/Podidiving/lct-ml-backend
+[submodule "android-app"]
+	path = android-app
+	url = https://github.com/Anton-Cherepkov/trees-hackathon-app
